@@ -1,168 +1,137 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1020,35:1D4ED8,70:7C3AED,100:00D4FF&text=Reyyan%20Aleem%20Janbaz&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Full-stack%20builder%20crafting%20web,%20AI%20and%20blockchain%20experiences&descAlignY=58&animation=fadeIn" alt="Reyyan Aleem Janbaz profile banner" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=I+design+interfaces+that+feel+fast,+sharp,+and+alive.;I+turn+ideas+into+full-stack+products.;I+am+building+at+the+edge+of+Web,+AI,+and+blockchain." alt="Typing SVG" />
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,35:0F172A,70:0B2A4A,100:00D4FF&text=REYYAN%20ALEEM%20JANBAZ&fontColor=E5F7FF&fontSize=44&fontAlignY=38&desc=control-room%20interfaces%2C%20human-first%20flows%2C%20serious%20product%20energy&descAlignY=60&animation=fadeIn" alt="Reyyan Aleem Janbaz banner" />
 
   <br />
 
-  <a href="https://github.com/reyyanxjanbaz?tab=followers">
-    <img src="https://img.shields.io/github/followers/reyyanxjanbaz?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=1D4ED8" alt="GitHub followers" />
+  <a href="https://github.com/reyyanxjanbaz?tab=repositories">
+    <img src="https://img.shields.io/badge/Repo%20surface-5%20active%20signals-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Repo surface" />
   </a>
   <a href="https://www.linkedin.com/in/reyyan-aleem-janbaz-37864426a/">
     <img src="https://img.shields.io/badge/LinkedIn-Reyyan%20Aleem%20Janbaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=reyyanxjanbaz&style=for-the-badge&color=7C3AED&label=Profile+Views" alt="Profile views" />
 
 </div>
 
 ---
 
 <table>
-  <tr>
-    <td width="58%" valign="top">
-      <h3>The Build Desk</h3>
-      <p>I am Reyyan, a full-stack developer in motion: learning deeply, shipping constantly, and designing software with the taste of a product person and the patience of an engineer.</p>
-      <p>My sweet spot is where a clean interface meets useful intelligence: dashboards, automations, AI-assisted workflows, Web3 experiments, and tools that make complicated systems feel calm to use.</p>
-      <pre><code class="language-ts">const reyyan = {
-  focus: ["Full-stack development", "AI products", "Blockchain systems"],
-  mindset: ["ship the smallest useful version", "make it beautiful", "learn in public"],
-  currentMode: "turning curiosity into polished software",
-  collaboration: "open to fun projects, sharp ideas, and useful experiments"
-};</code></pre>
-    </td>
-    <td width="42%" valign="top">
-      <h3>Signal Panel</h3>
-      <table>
-        <tr>
-          <td><strong>Building</strong></td>
-          <td>Web apps with strong UI and real product flow</td>
-        </tr>
-        <tr>
-          <td><strong>Learning</strong></td>
-          <td>Full-stack systems, AI integrations, smart contracts</td>
-        </tr>
-        <tr>
-          <td><strong>Exploring</strong></td>
-          <td>Agents, automation, on-chain apps, developer tooling</td>
-        </tr>
-        <tr>
-          <td><strong>Open for</strong></td>
-          <td>Collaborations, hackathons, portfolio-grade builds</td>
-        </tr>
-        <tr>
-          <td><strong>Reach me</strong></td>
-          <td><a href="https://www.linkedin.com/in/reyyan-aleem-janbaz-37864426a/">LinkedIn</a></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<tr>
+<td width="60%" valign="top">
+
+## Field Notes
+
+I am Reyyan, a 2nd-year CS student, and the pattern across my work is pretty clear: I keep building systems that sit between raw data and actual decisions.
+
+I like products that feel like control software. Dense when they need to be dense, calm when the user is overloaded, and sharp enough that the interface does not get in the way of the work.
+
+The main thread across my repos is human-centered infrastructure: task flow, market data, talent discovery, org charts, dashboards, and tooling that gives people a cleaner way to think.
+
+</td>
+<td width="40%" valign="top">
+
+## Status Panel
+
+| Signal | Readout |
+| --- | --- |
+| Build bias | product logic first |
+| UI shape | monitor-like, structured, high signal |
+| Favorite patterns | charts, cards, flows, and systems |
+| UX rules | fewer dead ends, better empty states |
+| Current lane | full-stack, mobile, data-heavy UI |
+| Open for | serious collaborations and useful weirdness |
+
+</td>
+</tr>
 </table>
 
 ---
 
-### Engineering Palette
+## What The Repos Say
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,solidity,mongodb,postgres,git,github,vscode,figma&perline=8" alt="Technology icons" />
-
-</div>
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <strong>Frontend</strong><br />
-      React, Next.js, responsive UI, motion, accessibility
-    </td>
-    <td align="center" width="25%">
-      <strong>Backend</strong><br />
-      Node.js, APIs, auth, databases, clean server logic
-    </td>
-    <td align="center" width="25%">
-      <strong>AI</strong><br />
-      LLM workflows, automation, productized intelligence
-    </td>
-    <td align="center" width="25%">
-      <strong>Web3</strong><br />
-      Solidity, blockchain concepts, decentralized apps
-    </td>
-  </tr>
-</table>
+| Repo | What It Actually Shows | Signal |
+| --- | --- | --- |
+| [ThinkTank](https://github.com/reyyanxjanbaz/ThinkTank) | Monorepo with React + Vite web, Fastify API, and Supabase. | Full-stack product work with real structure. |
+| [Tody](https://github.com/reyyanxjanbaz/Tody) | Gesture-driven task manager built around calm, human-centric planning. | I care about making everyday interactions feel better. |
+| [AgroVision](https://github.com/reyyanxjanbaz/AgroVision) | Agricultural dashboard with prices, trends, forecasts, chatbot, and news. | Data visualization, decision support, and dashboard thinking. |
+| [NextTern](https://github.com/reyyanxjanbaz/NextTern) | Card-based talent discovery platform for students and recruiters. | Product design with systems thinking and matching logic. |
+| [ForFoxSake](https://github.com/reyyanxjanbaz/ForFoxSake-Happyfox-assignment) | Accessible org chart app with React Flow, motion, and keyboard-first UX. | Graph UI, accessibility, and polished interaction design. |
 
 ---
 
-### What I Like To Build
+## System Map
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>Interface Systems</h4>
-      <p>Clean dashboards, focused tools, and interfaces where every state has been thought through.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>AI Utility</h4>
-      <p>Features that do real work: summarize, search, plan, classify, generate, automate, and save time.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>Blockchain Experiments</h4>
-      <p>Smart-contract ideas, wallet-aware products, transparent systems, and Web3 learning projects.</p>
-    </td>
-  </tr>
-</table>
+```mermaid
+flowchart LR
+  subgraph Product Surfaces
+    TT[ThinkTank]
+    TD[Tody]
+    AV[AgroVision]
+    NT[NextTern]
+    FF[ForFoxSake]
+  end
 
----
-
-### Live GitHub Telemetry
-
-<div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=reyyanxjanbaz&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B1020&title_color=38BDF8&text_color=E5E7EB&icon_color=A78BFA" alt="Reyyan's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyanxjanbaz&layout=compact&hide_border=true&bg_color=0B1020&title_color=38BDF8&text_color=E5E7EB" alt="Most used languages" />
-
-  <br />
-
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=reyyanxjanbaz&bg_color=0B1020&color=E5E7EB&line=38BDF8&point=A78BFA&area=true&hide_border=true" alt="GitHub activity graph" />
-
-  <br />
-
-  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reyyanxjanbaz&theme=github_dark" alt="GitHub profile summary" />
-
-</div>
-
----
-
-### Collaboration Menu
-
-I am especially interested in projects with a strong idea and a visible finish line:
-
-```md
-01. A web app that solves a real workflow problem
-02. An AI feature that feels useful, not decorative
-03. A blockchain experiment with a clear user story
-04. A polished portfolio project with serious UI craft
-05. A fun build where learning speed matters as much as the outcome
+  TT --> FT[web + api + supabase]
+  TD --> MN[mobile planning and task flow]
+  AV --> DP[data dashboards + forecasts + chatbot]
+  NT --> TL[talent discovery + cards + matching]
+  FF --> OC[org charts + accessibility + motion]
 ```
 
+---
+
+## Operating Principles
+
+- If the screen is busy, the UI should get quieter.
+- If the user is confused, the interface should say so sooner.
+- If a chart can answer the question faster, use the chart.
+- If the interaction needs explanation, the interaction is probably wrong.
+- If a project has no edge, I probably will not finish caring about it.
+
+---
+
+## Telemetry
+
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/reyyan-aleem-janbaz-37864426a/">
-    <img src="https://img.shields.io/badge/Build%20Something%20Sharp-Connect%20on%20LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0B1020" alt="Connect on LinkedIn" />
-  </a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=reyyanxjanbaz&show_icons=true&hide_border=true&rank_icon=github&bg_color=050816&title_color=00D4FF&text_color=E5F7FF&icon_color=7C3AED" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyanxjanbaz&layout=compact&hide_border=true&bg_color=050816&title_color=00D4FF&text_color=E5F7FF" alt="Top languages" />
+
+<br />
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=reyyanxjanbaz&bg_color=050816&color=E5F7FF&line=00D4FF&point=7C3AED&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
 ---
 
+## Build Preferences
+
+| Area | What I Lean Toward |
+| --- | --- |
+| Frontend | React, Next.js, Vite, motion, strong state handling |
+| Mobile | React Native, gesture-based flows, calmer task UX |
+| Backend | Node, Express, Fastify, APIs that stay out of the way |
+| Data | Supabase, PostgreSQL, real-time surfaces, useful charts |
+| AI | Practical assistants, not decorative AI buttons |
+| Web3 | Still interesting when the user story is actually there |
+
+---
+
+## Current Direction
+
+I am most interested in projects that have a visible finish line and enough complexity to justify good design. The kind of stuff I enjoy is usually one of these:
+
+1. A dashboard that helps someone make a real decision faster.
+2. A mobile flow that cuts friction instead of adding another screen.
+3. A platform with enough moving parts to reward clean structure.
+4. A graph-heavy interface that still feels easy to use.
+5. A product where the details matter and the polish is obvious.
+
+---
+
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38BDF8,50:7C3AED,100:00D4FF" alt="" />
-
-  <br />
-  <br />
-
-  <strong>Building in public. Learning with intent. Shipping with taste.</strong>
+<sub>Building in public, but trying to keep the output human.</sub>
 
 </div>
